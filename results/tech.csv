@@ -1,0 +1,160 @@
+﻿edicao,familia,opcao,selecionaram,denominador,percentual
+2023-2024,bi_trabalho,Alteryx,99.0,3679,2.6909486273443872
+2023-2024,bi_trabalho,Amazon Quicksight,136.0,3679,3.6966567001902693
+2023-2024,bi_trabalho,Birst,4.0,3679,0.10872519706441967
+2023-2024,bi_trabalho,Fazemos todas as análises utilizando apenas Excel ou planilhas do google,387.0,3679,10.519162815982604
+2023-2024,bi_trabalho,Grafana,273.0,3679,7.420494699646643
+2023-2024,bi_trabalho,IBM Analytics/Cognos,25.0,3679,0.679532481652623
+2023-2024,bi_trabalho,Looker,893.0,3679,24.272900244631693
+2023-2024,bi_trabalho,Looker Studio(Google Data Studio),650.0,3679,17.6678445229682
+2023-2024,bi_trabalho,Metabase,322.0,3679,8.752378363685784
+2023-2024,bi_trabalho,MicroStrategy,37.0,3679,1.005708072845882
+2023-2024,bi_trabalho,Microsoft PowerBI,2143.0,3679,58.24952432726284
+2023-2024,bi_trabalho,Mode,12.0,3679,0.32617559119325906
+2023-2024,bi_trabalho,Não utilizo nenhuma ferramenta de BI no trabalho,388.0,3679,10.54634411524871
+2023-2024,bi_trabalho,Oracle Business Intelligence,49.0,3679,1.3318836640391412
+2023-2024,bi_trabalho,Pentaho,175.0,3679,4.756727371568361
+2023-2024,bi_trabalho,Qlik View/Qlik Sense,193.0,3679,5.24599075835825
+2023-2024,bi_trabalho,Redash,62.0,3679,1.685240554498505
+2023-2024,bi_trabalho,SAP Business Objects/SAP Analytics,77.0,3679,2.092960043490079
+2023-2024,bi_trabalho,SAS Visual Analytics,83.0,3679,2.2560478390867083
+2023-2024,bi_trabalho,Salesforce/Einstein Analytics,84.0,3679,2.283229138352813
+2023-2024,bi_trabalho,Superset,84.0,3679,2.283229138352813
+2023-2024,bi_trabalho,TIBCO Spotfire,27.0,3679,0.7338950801848328
+2023-2024,bi_trabalho,Tableau,712.0,3679,19.3530850774667
+2023-2024,cloud_trabalho,Amazon Web Services (AWS),1529.0,3596,42.519466073414904
+2023-2024,cloud_trabalho,Azure (Microsoft),1141.0,3596,31.729699666295883
+2023-2024,cloud_trabalho,Cloud Própria,251.0,3596,6.979977753058955
+2023-2024,cloud_trabalho,Google Cloud (GCP),1106.0,3596,30.756395995550612
+2023-2024,cloud_trabalho,IBM,47.0,3596,1.3070077864293659
+2023-2024,cloud_trabalho,Oracle Cloud,154.0,3596,4.282536151279199
+2023-2024,cloud_trabalho,Servidores On Premise/Não utilizamos Cloud,582.0,3596,16.18464961067853
+2023-2024,ia_produtividade,copilot_ou_ia_codigo,443.0,3746,11.825947677522691
+2023-2024,ia_produtividade,empresa_paga,238.0,3746,6.353443673251468
+2023-2024,ia_produtividade,nao_usa,718.0,3746,19.167111585691405
+2023-2024,ia_produtividade,paga_proprio_bolso,259.0,3746,6.914041644420715
+2023-2024,ia_produtividade,usa_gratuita,2380.0,3746,63.534436732514685
+2023-2024,ia_uso_organizacional,AI Generativa e LLMs para melhorar produtos externos para os clientes finais,799.0,3772,21.182396606574763
+2023-2024,ia_uso_organizacional,AI Generativa e LLMs para melhorar produtos internos para os colaboradores,599.0,3772,15.88016967126193
+2023-2024,ia_uso_organizacional,Colaboradores usando AI generativa de forma independente e descentralizada,1723.0,3772,45.678685047720045
+2023-2024,ia_uso_organizacional,Desenvolvedores utilizando Copilots,578.0,3772,15.323435843054083
+2023-2024,ia_uso_organizacional,Direcionamento centralizado do uso de AI generativa,394.0,3772,10.445387062566278
+2023-2024,ia_uso_organizacional,IA Generativa e LLMs como principal frente do negócio,146.0,3772,3.870625662778367
+2023-2024,ia_uso_organizacional,IA Generativa e LLMs não é prioridade,785.0,3772,20.811240721102862
+2023-2024,ia_uso_organizacional,Não sei opinar sobre o uso de IA Generativa e LLMs na empresa,510.0,3772,13.52067868504772
+2023-2024,linguagens_trabalho,.NET,40.0,3756,1.0649627263045793
+2023-2024,linguagens_trabalho,C/C++/C#,69.0,3756,1.8370607028753994
+2023-2024,linguagens_trabalho,Java,353.0,3756,9.398296059637913
+2023-2024,linguagens_trabalho,JavaScript,280.0,3756,7.454739084132055
+2023-2024,linguagens_trabalho,Julia,8.0,3756,0.21299254526091588
+2023-2024,linguagens_trabalho,Matlab,29.0,3756,0.77209797657082
+2023-2024,linguagens_trabalho,Não utilizo nenhuma das linguagens listadas,289.0,3756,7.694355697550586
+2023-2024,linguagens_trabalho,PHP,56.0,3756,1.490947816826411
+2023-2024,linguagens_trabalho,Python,2823.0,3756,75.15974440894568
+2023-2024,linguagens_trabalho,R,406.0,3756,10.80937167199148
+2023-2024,linguagens_trabalho,Rust,7.0,3756,0.18636847710330137
+2023-2024,linguagens_trabalho,SAS/Stata,151.0,3756,4.020234291799787
+2023-2024,linguagens_trabalho,SQL,3150.0,3756,83.86581469648563
+2023-2024,linguagens_trabalho,Scala,130.0,3756,3.461128860489883
+2023-2024,linguagens_trabalho,Visual Basic/VBA,283.0,3756,7.534611288604899
+2024-2025,bi_trabalho,Alteryx,72.0,3485,2.065997130559541
+2024-2025,bi_trabalho,Amazon Quicksight,167.0,3485,4.791965566714491
+2024-2025,bi_trabalho,Fazemos todas as análises utilizando apenas Excel ou planilhas do google,384.0,3485,11.018651362984219
+2024-2025,bi_trabalho,Grafana,289.0,3485,8.292682926829269
+2024-2025,bi_trabalho,Looker,830.0,3485,23.81635581061693
+2024-2025,bi_trabalho,Looker Studio(Google Data Studio),603.0,3485,17.302725968436153
+2024-2025,bi_trabalho,Metabase,317.0,3485,9.0961262553802
+2024-2025,bi_trabalho,Microsoft PowerBI,1989.0,3485,57.073170731707314
+2024-2025,bi_trabalho,Não utilizo nenhuma ferramenta de BI no trabalho,345.0,3485,9.899569583931134
+2024-2025,bi_trabalho,Oracle Business Intelligence,35.0,3485,1.0043041606886658
+2024-2025,bi_trabalho,Pentaho,113.0,3485,3.242467718794835
+2024-2025,bi_trabalho,Qlik View/Qlik Sense,178.0,3485,5.107604017216643
+2024-2025,bi_trabalho,Redash,55.0,3485,1.5781922525107603
+2024-2025,bi_trabalho,SAP Business Objects/SAP Analytics,55.0,3485,1.5781922525107603
+2024-2025,bi_trabalho,SAS Visual Analytics,74.0,3485,2.1233859397417505
+2024-2025,bi_trabalho,Salesforce/Einstein Analytics,92.0,3485,2.6398852223816354
+2024-2025,bi_trabalho,Superset,97.0,3485,2.783357245337159
+2024-2025,bi_trabalho,Tableau,687.0,3485,19.713055954088954
+2024-2025,cloud_trabalho,Amazon Web Services (AWS),1583.0,3502,45.20274129069104
+2024-2025,cloud_trabalho,Azure (Microsoft),1108.0,3502,31.63906339234723
+2024-2025,cloud_trabalho,Cloud Própria,191.0,3502,5.454026270702456
+2024-2025,cloud_trabalho,Google Cloud (GCP),1049.0,3502,29.954311821816106
+2024-2025,cloud_trabalho,IBM,59.0,3502,1.6847515705311251
+2024-2025,cloud_trabalho,Oracle Cloud,143.0,3502,4.083380925185608
+2024-2025,cloud_trabalho,Servidores On Premise/Não utilizamos Cloud,463.0,3502,13.221016561964591
+2024-2025,ia_produtividade,copilot_ou_ia_codigo,856.0,3604,23.751387347391788
+2024-2025,ia_produtividade,empresa_paga,695.0,3604,19.284128745837958
+2024-2025,ia_produtividade,nao_usa,223.0,3604,6.18756936736959
+2024-2025,ia_produtividade,paga_proprio_bolso,559.0,3604,15.510543840177581
+2024-2025,ia_produtividade,usa_gratuita,1937.0,3604,53.74583795782464
+2024-2025,ia_uso_organizacional,AI Generativa e LLMs para melhorar produtos externos para os clientes finais,1016.0,3617,28.08957699751175
+2024-2025,ia_uso_organizacional,AI Generativa e LLMs para melhorar produtos internos para os colaboradores,973.0,3617,26.900746474979265
+2024-2025,ia_uso_organizacional,Colaboradores usando AI generativa de forma independente e descentralizada,1810.0,3617,50.04147083218137
+2024-2025,ia_uso_organizacional,Desenvolvedores utilizando Copilots,947.0,3617,26.181918717168923
+2024-2025,ia_uso_organizacional,Direcionamento centralizado do uso de AI generativa,766.0,3617,21.177771633950787
+2024-2025,ia_uso_organizacional,IA Generativa e LLMs como principal frente do negócio,248.0,3617,6.856510920652474
+2024-2025,ia_uso_organizacional,IA Generativa e LLMs não é prioridade,412.0,3617,11.390655239148465
+2024-2025,ia_uso_organizacional,Não sei opinar sobre o uso de IA Generativa e LLMs na empresa,254.0,3617,7.022394249377937
+2024-2025,linguagens_trabalho,.NET,31.0,3434,0.9027373325567851
+2024-2025,linguagens_trabalho,C/C++/C#,46.0,3434,1.3395457192778102
+2024-2025,linguagens_trabalho,Java,291.0,3434,8.474082702387886
+2024-2025,linguagens_trabalho,JavaScript,223.0,3434,6.493884682585906
+2024-2025,linguagens_trabalho,Julia,6.0,3434,0.17472335468841002
+2024-2025,linguagens_trabalho,Matlab,20.0,3434,0.5824111822947
+2024-2025,linguagens_trabalho,Não utilizo nenhuma das linguagens listadas,0.0,3434,0.0
+2024-2025,linguagens_trabalho,PHP,34.0,3434,0.9900990099009901
+2024-2025,linguagens_trabalho,Python,2934.0,3434,85.43972044263249
+2024-2025,linguagens_trabalho,R,352.0,3434,10.250436808386722
+2024-2025,linguagens_trabalho,Rust,12.0,3434,0.34944670937682004
+2024-2025,linguagens_trabalho,SAS/Stata,130.0,3434,3.7856726849155504
+2024-2025,linguagens_trabalho,SQL,3145.0,3434,91.58415841584159
+2024-2025,linguagens_trabalho,Scala,126.0,3434,3.6691904484566105
+2024-2025,linguagens_trabalho,Visual Basic/VBA,215.0,3434,6.260920209668026
+2025-2026,bi_trabalho,Alteryx,41.0,2040,2.0098039215686274
+2025-2026,bi_trabalho,Amazon Quicksight,142.0,2040,6.96078431372549
+2025-2026,bi_trabalho,Fazemos todas as análises utilizando apenas Excel ou planilhas do google,215.0,2040,10.53921568627451
+2025-2026,bi_trabalho,Grafana,181.0,2040,8.872549019607844
+2025-2026,bi_trabalho,Looker,473.0,2040,23.186274509803923
+2025-2026,bi_trabalho,Looker Studio(Google Data Studio),327.0,2040,16.029411764705884
+2025-2026,bi_trabalho,Metabase,175.0,2040,8.57843137254902
+2025-2026,bi_trabalho,Microsoft PowerBI,1236.0,2040,60.588235294117645
+2025-2026,bi_trabalho,Não utilizo nenhuma ferramenta de BI no trabalho,229.0,2040,11.22549019607843
+2025-2026,bi_trabalho,Oracle Business Intelligence,17.0,2040,0.8333333333333334
+2025-2026,bi_trabalho,Pentaho,65.0,2040,3.1862745098039214
+2025-2026,bi_trabalho,Qlik View/Qlik Sense,90.0,2040,4.411764705882353
+2025-2026,bi_trabalho,Redash,13.0,2040,0.6372549019607843
+2025-2026,bi_trabalho,SAP Business Objects/SAP Analytics,51.0,2040,2.5
+2025-2026,bi_trabalho,SAS Visual Analytics,35.0,2040,1.7156862745098038
+2025-2026,bi_trabalho,Salesforce/Einstein Analytics,42.0,2040,2.0588235294117645
+2025-2026,bi_trabalho,Superset,66.0,2040,3.235294117647059
+2025-2026,bi_trabalho,Tableau,286.0,2040,14.019607843137255
+2025-2026,cloud_trabalho,Amazon Web Services (AWS),1011.0,2046,49.41348973607038
+2025-2026,cloud_trabalho,Azure (Microsoft),730.0,2046,35.67937438905181
+2025-2026,cloud_trabalho,Cloud Própria,114.0,2046,5.571847507331379
+2025-2026,cloud_trabalho,Google Cloud (GCP),647.0,2046,31.622678396871944
+2025-2026,cloud_trabalho,IBM,25.0,2046,1.2218963831867058
+2025-2026,cloud_trabalho,Oracle Cloud,94.0,2046,4.594330400782014
+2025-2026,cloud_trabalho,Servidores On Premise/Não utilizamos Cloud,300.0,2046,14.662756598240469
+2025-2026,ia_produtividade,copilot_ou_ia_codigo,628.0,2100,29.904761904761905
+2025-2026,ia_produtividade,empresa_paga,891.0,2100,42.42857142857143
+2025-2026,ia_produtividade,nao_usa,39.0,2100,1.8571428571428572
+2025-2026,ia_produtividade,paga_proprio_bolso,566.0,2100,26.952380952380953
+2025-2026,ia_produtividade,usa_gratuita,639.0,2100,30.428571428571427
+2025-2026,ia_uso_organizacional,AI Generativa e LLMs para melhorar produtos externos para os clientes finais,635.0,2105,30.16627078384798
+2025-2026,ia_uso_organizacional,AI Generativa e LLMs para melhorar produtos internos para os colaboradores,662.0,2105,31.44893111638955
+2025-2026,ia_uso_organizacional,Colaboradores usando AI generativa de forma independente e descentralizada,1017.0,2105,48.31353919239905
+2025-2026,ia_uso_organizacional,Desenvolvedores utilizando Copilots,684.0,2105,32.49406175771971
+2025-2026,ia_uso_organizacional,Direcionamento centralizado do uso de AI generativa,751.0,2105,35.67695961995249
+2025-2026,ia_uso_organizacional,IA Generativa e LLMs como principal frente do negócio,204.0,2105,9.691211401425178
+2025-2026,ia_uso_organizacional,IA Generativa e LLMs não é prioridade,139.0,2105,6.603325415676959
+2025-2026,ia_uso_organizacional,Não sei opinar sobre o uso de IA Generativa e LLMs na empresa,68.0,2105,3.2304038004750595
+2025-2026,linguagens_preferidas,C/C++/C#,49.0,2090,2.3444976076555024
+2025-2026,linguagens_preferidas,DAX,8.0,2090,0.3827751196172249
+2025-2026,linguagens_preferidas,Julia,18.0,2090,0.861244019138756
+2025-2026,linguagens_preferidas,Não utilizo nenhuma das linguagens listadas,0.0,2090,0.0
+2025-2026,linguagens_preferidas,Python,1928.0,2090,92.2488038277512
+2025-2026,linguagens_preferidas,R,327.0,2090,15.645933014354068
+2025-2026,linguagens_preferidas,Rust,35.0,2090,1.674641148325359
+2025-2026,linguagens_preferidas,SQL,1763.0,2090,84.35406698564593
+2025-2026,linguagens_preferidas,Scala,70.0,2090,3.349282296650718
+2025-2026,linguagens_preferidas,Visual Basic/VBA,1.0,2090,0.04784688995215311

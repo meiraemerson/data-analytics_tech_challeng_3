@@ -1,0 +1,1743 @@
+{
+  "linguagens_trabalho": {
+    "comparabilidade": "nao_comparar_preferencia_com_uso",
+    "edicoes": {
+      "2023-2024": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "('P4_d_1 ', 'SQL')",
+            "codigo_original": "P4_d_1",
+            "rotulo_original": "SQL",
+            "opcao_canonica": "SQL",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_2 ', 'R ')",
+            "codigo_original": "P4_d_2",
+            "rotulo_original": "R",
+            "opcao_canonica": "R",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_3 ', 'Python')",
+            "codigo_original": "P4_d_3",
+            "rotulo_original": "Python",
+            "opcao_canonica": "Python",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_4 ', 'C/C++/C#')",
+            "codigo_original": "P4_d_4",
+            "rotulo_original": "C/C++/C#",
+            "opcao_canonica": "C/C++/C#",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_5 ', '.NET')",
+            "codigo_original": "P4_d_5",
+            "rotulo_original": ".NET",
+            "opcao_canonica": ".NET",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_6 ', 'Java')",
+            "codigo_original": "P4_d_6",
+            "rotulo_original": "Java",
+            "opcao_canonica": "Java",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_7 ', 'Julia')",
+            "codigo_original": "P4_d_7",
+            "rotulo_original": "Julia",
+            "opcao_canonica": "Julia",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_8 ', 'SAS/Stata')",
+            "codigo_original": "P4_d_8",
+            "rotulo_original": "SAS/Stata",
+            "opcao_canonica": "SAS/Stata",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_9 ', 'Visual Basic/VBA')",
+            "codigo_original": "P4_d_9",
+            "rotulo_original": "Visual Basic/VBA",
+            "opcao_canonica": "Visual Basic/VBA",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_10 ', 'Scala')",
+            "codigo_original": "P4_d_10",
+            "rotulo_original": "Scala",
+            "opcao_canonica": "Scala",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_11 ', 'Matlab')",
+            "codigo_original": "P4_d_11",
+            "rotulo_original": "Matlab",
+            "opcao_canonica": "Matlab",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_12 ', 'Rust')",
+            "codigo_original": "P4_d_12",
+            "rotulo_original": "Rust",
+            "opcao_canonica": "Rust",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_13 ', 'PHP')",
+            "codigo_original": "P4_d_13",
+            "rotulo_original": "PHP",
+            "opcao_canonica": "PHP",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_14 ', 'JavaScript')",
+            "codigo_original": "P4_d_14",
+            "rotulo_original": "JavaScript",
+            "opcao_canonica": "JavaScript",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_d_15 ', 'Não utilizo nenhuma linguagem')",
+            "codigo_original": "P4_d_15",
+            "rotulo_original": "Não utilizo nenhuma linguagem",
+            "opcao_canonica": "Não utilizo nenhuma das linguagens listadas",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      },
+      "2024-2025": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "4.d.1_SQL",
+            "codigo_original": "4.d.1",
+            "rotulo_original": "SQL",
+            "opcao_canonica": "SQL",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.2_R",
+            "codigo_original": "4.d.2",
+            "rotulo_original": "R",
+            "opcao_canonica": "R",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.3_Python",
+            "codigo_original": "4.d.3",
+            "rotulo_original": "Python",
+            "opcao_canonica": "Python",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.4_C/C++/C#",
+            "codigo_original": "4.d.4",
+            "rotulo_original": "C/C++/C#",
+            "opcao_canonica": "C/C++/C#",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.5_.NET",
+            "codigo_original": "4.d.5",
+            "rotulo_original": ".NET",
+            "opcao_canonica": ".NET",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.6_Java",
+            "codigo_original": "4.d.6",
+            "rotulo_original": "Java",
+            "opcao_canonica": "Java",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.7_Julia",
+            "codigo_original": "4.d.7",
+            "rotulo_original": "Julia",
+            "opcao_canonica": "Julia",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.8_SAS/Stata",
+            "codigo_original": "4.d.8",
+            "rotulo_original": "SAS/Stata",
+            "opcao_canonica": "SAS/Stata",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.9_Visual Basic/VBA",
+            "codigo_original": "4.d.9",
+            "rotulo_original": "Visual Basic/VBA",
+            "opcao_canonica": "Visual Basic/VBA",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.10_Scala",
+            "codigo_original": "4.d.10",
+            "rotulo_original": "Scala",
+            "opcao_canonica": "Scala",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.11_Matlab",
+            "codigo_original": "4.d.11",
+            "rotulo_original": "Matlab",
+            "opcao_canonica": "Matlab",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.12_Rust",
+            "codigo_original": "4.d.12",
+            "rotulo_original": "Rust",
+            "opcao_canonica": "Rust",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.13_PHP",
+            "codigo_original": "4.d.13",
+            "rotulo_original": "PHP",
+            "opcao_canonica": "PHP",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.14_JavaScript",
+            "codigo_original": "4.d.14",
+            "rotulo_original": "JavaScript",
+            "opcao_canonica": "JavaScript",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.d.15_Não utilizo nenhuma das linguagens listadas",
+            "codigo_original": "4.d.15",
+            "rotulo_original": "Não utilizo nenhuma das linguagens listadas",
+            "opcao_canonica": "Não utilizo nenhuma das linguagens listadas",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      },
+      "2025-2026": {
+        "pergunta_disponivel": false,
+        "opcoes": []
+      }
+    },
+    "exclusividade": {
+      "opcoes_exclusivas": [
+        "Não utilizo nenhuma das linguagens listadas"
+      ],
+      "opcoes_compativeis_com_exclusiva": []
+    }
+  },
+  "linguagens_preferidas": {
+    "comparabilidade": "nao_comparar_preferencia_com_uso",
+    "edicoes": {
+      "2023-2024": {
+        "pergunta_disponivel": false,
+        "opcoes": []
+      },
+      "2024-2025": {
+        "pergunta_disponivel": false,
+        "opcoes": []
+      },
+      "2025-2026": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "4.c.1_SQL",
+            "codigo_original": "4.c.1",
+            "rotulo_original": "SQL",
+            "opcao_canonica": "SQL",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.c.2_R",
+            "codigo_original": "4.c.2",
+            "rotulo_original": "R",
+            "opcao_canonica": "R",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.c.3_Python",
+            "codigo_original": "4.c.3",
+            "rotulo_original": "Python",
+            "opcao_canonica": "Python",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.c.4_C/C++/C#",
+            "codigo_original": "4.c.4",
+            "rotulo_original": "C/C++/C#",
+            "opcao_canonica": "C/C++/C#",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.c.5_Julia",
+            "codigo_original": "4.c.5",
+            "rotulo_original": "Julia",
+            "opcao_canonica": "Julia",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.c.6_Visual Basic/VBA",
+            "codigo_original": "4.c.6",
+            "rotulo_original": "Visual Basic/VBA",
+            "opcao_canonica": "Visual Basic/VBA",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.c.7_Scala",
+            "codigo_original": "4.c.7",
+            "rotulo_original": "Scala",
+            "opcao_canonica": "Scala",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.c.8_DAX",
+            "codigo_original": "4.c.8",
+            "rotulo_original": "DAX",
+            "opcao_canonica": "DAX",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.c.9_Rust",
+            "codigo_original": "4.c.9",
+            "rotulo_original": "Rust",
+            "opcao_canonica": "Rust",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.c.10_Não utilizo nenhuma das linguagens listadas",
+            "codigo_original": "4.c.10",
+            "rotulo_original": "Não utilizo nenhuma das linguagens listadas",
+            "opcao_canonica": "Não utilizo nenhuma das linguagens listadas",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      }
+    },
+    "exclusividade": {
+      "opcoes_exclusivas": [
+        "Não utilizo nenhuma das linguagens listadas"
+      ],
+      "opcoes_compativeis_com_exclusiva": []
+    }
+  },
+  "cloud_trabalho": {
+    "comparabilidade": "condicional_correcao_rotulos_cloud_2023",
+    "edicoes": {
+      "2023-2024": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "('P4_h_1 ', 'Azure (Microsoft)')",
+            "codigo_original": "P4_h_1",
+            "rotulo_original": "Azure (Microsoft)",
+            "opcao_canonica": "Amazon Web Services (AWS)",
+            "correcao": "Correcao documentada na referencia Data Hackers, nao inferida dos valores binarios",
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_h_2 ', 'Amazon Web Services (AWS)')",
+            "codigo_original": "P4_h_2",
+            "rotulo_original": "Amazon Web Services (AWS)",
+            "opcao_canonica": "Google Cloud (GCP)",
+            "correcao": "Correcao documentada na referencia Data Hackers, nao inferida dos valores binarios",
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_h_3 ', 'Google Cloud (GCP)')",
+            "codigo_original": "P4_h_3",
+            "rotulo_original": "Google Cloud (GCP)",
+            "opcao_canonica": "Azure (Microsoft)",
+            "correcao": "Correcao documentada na referencia Data Hackers, nao inferida dos valores binarios",
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_h_4 ', 'Oracle Cloud')",
+            "codigo_original": "P4_h_4",
+            "rotulo_original": "Oracle Cloud",
+            "opcao_canonica": "Oracle Cloud",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_h_5 ', 'IBM')",
+            "codigo_original": "P4_h_5",
+            "rotulo_original": "IBM",
+            "opcao_canonica": "IBM",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_h_6 ', 'Servidores On Premise/Não utilizamos Cloud')",
+            "codigo_original": "P4_h_6",
+            "rotulo_original": "Servidores On Premise/Não utilizamos Cloud",
+            "opcao_canonica": "Servidores On Premise/Não utilizamos Cloud",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_h_7 ', 'Cloud Própria')",
+            "codigo_original": "P4_h_7",
+            "rotulo_original": "Cloud Própria",
+            "opcao_canonica": "Cloud Própria",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      },
+      "2024-2025": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "4.h.1_Amazon Web Services (AWS)",
+            "codigo_original": "4.h.1",
+            "rotulo_original": "Amazon Web Services (AWS)",
+            "opcao_canonica": "Amazon Web Services (AWS)",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.h.2_Google Cloud (GCP)",
+            "codigo_original": "4.h.2",
+            "rotulo_original": "Google Cloud (GCP)",
+            "opcao_canonica": "Google Cloud (GCP)",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.h.3_Azure (Microsoft)",
+            "codigo_original": "4.h.3",
+            "rotulo_original": "Azure (Microsoft)",
+            "opcao_canonica": "Azure (Microsoft)",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.h.4_Oracle Cloud",
+            "codigo_original": "4.h.4",
+            "rotulo_original": "Oracle Cloud",
+            "opcao_canonica": "Oracle Cloud",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.h.5_IBM",
+            "codigo_original": "4.h.5",
+            "rotulo_original": "IBM",
+            "opcao_canonica": "IBM",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.h.6_Servidores On Premise/Não utilizamos Cloud",
+            "codigo_original": "4.h.6",
+            "rotulo_original": "Servidores On Premise/Não utilizamos Cloud",
+            "opcao_canonica": "Servidores On Premise/Não utilizamos Cloud",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.h.7_Cloud Própria",
+            "codigo_original": "4.h.7",
+            "rotulo_original": "Cloud Própria",
+            "opcao_canonica": "Cloud Própria",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      },
+      "2025-2026": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "4.e.1_Amazon Web Services (AWS)",
+            "codigo_original": "4.e.1",
+            "rotulo_original": "Amazon Web Services (AWS)",
+            "opcao_canonica": "Amazon Web Services (AWS)",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.e.2_Google Cloud (GCP)",
+            "codigo_original": "4.e.2",
+            "rotulo_original": "Google Cloud (GCP)",
+            "opcao_canonica": "Google Cloud (GCP)",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.e.3_Azure (Microsoft)",
+            "codigo_original": "4.e.3",
+            "rotulo_original": "Azure (Microsoft)",
+            "opcao_canonica": "Azure (Microsoft)",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.e.4_Oracle Cloud",
+            "codigo_original": "4.e.4",
+            "rotulo_original": "Oracle Cloud",
+            "opcao_canonica": "Oracle Cloud",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.e.5_IBM",
+            "codigo_original": "4.e.5",
+            "rotulo_original": "IBM",
+            "opcao_canonica": "IBM",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.e.6_Servidores On Premise/Não utilizamos Cloud",
+            "codigo_original": "4.e.6",
+            "rotulo_original": "Servidores On Premise/Não utilizamos Cloud",
+            "opcao_canonica": "Servidores On Premise/Não utilizamos Cloud",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.e.7_Cloud Própria",
+            "codigo_original": "4.e.7",
+            "rotulo_original": "Cloud Própria",
+            "opcao_canonica": "Cloud Própria",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      }
+    },
+    "exclusividade": {
+      "opcoes_exclusivas": [],
+      "opcoes_compativeis_com_exclusiva": []
+    }
+  },
+  "bi_trabalho": {
+    "comparabilidade": "comparavel_somente_opcoes_presentes_em_cada_edicao",
+    "edicoes": {
+      "2023-2024": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "('P4_j_1 ', 'Microsoft PowerBI')",
+            "codigo_original": "P4_j_1",
+            "rotulo_original": "Microsoft PowerBI",
+            "opcao_canonica": "Microsoft PowerBI",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_2 ', 'Qlik View/Qlik Sense')",
+            "codigo_original": "P4_j_2",
+            "rotulo_original": "Qlik View/Qlik Sense",
+            "opcao_canonica": "Qlik View/Qlik Sense",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_3 ', 'Tableau')",
+            "codigo_original": "P4_j_3",
+            "rotulo_original": "Tableau",
+            "opcao_canonica": "Tableau",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_4 ', 'Metabase')",
+            "codigo_original": "P4_j_4",
+            "rotulo_original": "Metabase",
+            "opcao_canonica": "Metabase",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_5 ', 'Superset')",
+            "codigo_original": "P4_j_5",
+            "rotulo_original": "Superset",
+            "opcao_canonica": "Superset",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_6 ', 'Redash')",
+            "codigo_original": "P4_j_6",
+            "rotulo_original": "Redash",
+            "opcao_canonica": "Redash",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_7 ', 'Looker')",
+            "codigo_original": "P4_j_7",
+            "rotulo_original": "Looker",
+            "opcao_canonica": "Looker",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_8 ', 'Looker Studio(Google Data Studio)')",
+            "codigo_original": "P4_j_8",
+            "rotulo_original": "Looker Studio(Google Data Studio)",
+            "opcao_canonica": "Looker Studio(Google Data Studio)",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_9 ', 'Amazon Quicksight')",
+            "codigo_original": "P4_j_9",
+            "rotulo_original": "Amazon Quicksight",
+            "opcao_canonica": "Amazon Quicksight",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_10 ', 'Mode')",
+            "codigo_original": "P4_j_10",
+            "rotulo_original": "Mode",
+            "opcao_canonica": "Mode",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_11 ', 'Alteryx')",
+            "codigo_original": "P4_j_11",
+            "rotulo_original": "Alteryx",
+            "opcao_canonica": "Alteryx",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_12 ', 'MicroStrategy')",
+            "codigo_original": "P4_j_12",
+            "rotulo_original": "MicroStrategy",
+            "opcao_canonica": "MicroStrategy",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_13 ', 'IBM Analytics/Cognos')",
+            "codigo_original": "P4_j_13",
+            "rotulo_original": "IBM Analytics/Cognos",
+            "opcao_canonica": "IBM Analytics/Cognos",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_14 ', 'SAP Business Objects/SAP Analytics')",
+            "codigo_original": "P4_j_14",
+            "rotulo_original": "SAP Business Objects/SAP Analytics",
+            "opcao_canonica": "SAP Business Objects/SAP Analytics",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_15 ', 'Oracle Business Intelligence')",
+            "codigo_original": "P4_j_15",
+            "rotulo_original": "Oracle Business Intelligence",
+            "opcao_canonica": "Oracle Business Intelligence",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_16 ', 'Salesforce/Einstein Analytics')",
+            "codigo_original": "P4_j_16",
+            "rotulo_original": "Salesforce/Einstein Analytics",
+            "opcao_canonica": "Salesforce/Einstein Analytics",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_17 ', 'Birst')",
+            "codigo_original": "P4_j_17",
+            "rotulo_original": "Birst",
+            "opcao_canonica": "Birst",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_18 ', 'SAS Visual Analytics')",
+            "codigo_original": "P4_j_18",
+            "rotulo_original": "SAS Visual Analytics",
+            "opcao_canonica": "SAS Visual Analytics",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_19 ', 'Grafana')",
+            "codigo_original": "P4_j_19",
+            "rotulo_original": "Grafana",
+            "opcao_canonica": "Grafana",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_20 ', 'TIBCO Spotfire')",
+            "codigo_original": "P4_j_20",
+            "rotulo_original": "TIBCO Spotfire",
+            "opcao_canonica": "TIBCO Spotfire",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_21 ', 'Pentaho')",
+            "codigo_original": "P4_j_21",
+            "rotulo_original": "Pentaho",
+            "opcao_canonica": "Pentaho",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_22 ', 'Fazemos todas as análises utilizando apenas Excel ou planilhas do google')",
+            "codigo_original": "P4_j_22",
+            "rotulo_original": "Fazemos todas as análises utilizando apenas Excel ou planilhas do google",
+            "opcao_canonica": "Fazemos todas as análises utilizando apenas Excel ou planilhas do google",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_j_23 ', 'Não utilizo nenhuma ferramenta de BI no trabalho')",
+            "codigo_original": "P4_j_23",
+            "rotulo_original": "Não utilizo nenhuma ferramenta de BI no trabalho",
+            "opcao_canonica": "Não utilizo nenhuma ferramenta de BI no trabalho",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      },
+      "2024-2025": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "4.j.1_Microsoft PowerBI",
+            "codigo_original": "4.j.1",
+            "rotulo_original": "Microsoft PowerBI",
+            "opcao_canonica": "Microsoft PowerBI",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.2_Qlik View/Qlik Sense",
+            "codigo_original": "4.j.2",
+            "rotulo_original": "Qlik View/Qlik Sense",
+            "opcao_canonica": "Qlik View/Qlik Sense",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.3_Tableau",
+            "codigo_original": "4.j.3",
+            "rotulo_original": "Tableau",
+            "opcao_canonica": "Tableau",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.4_Metabase",
+            "codigo_original": "4.j.4",
+            "rotulo_original": "Metabase",
+            "opcao_canonica": "Metabase",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.5_Superset",
+            "codigo_original": "4.j.5",
+            "rotulo_original": "Superset",
+            "opcao_canonica": "Superset",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.6_Redash",
+            "codigo_original": "4.j.6",
+            "rotulo_original": "Redash",
+            "opcao_canonica": "Redash",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.7_Looker",
+            "codigo_original": "4.j.7",
+            "rotulo_original": "Looker",
+            "opcao_canonica": "Looker",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.8_Looker Studio(Google Data Studio)",
+            "codigo_original": "4.j.8",
+            "rotulo_original": "Looker Studio(Google Data Studio)",
+            "opcao_canonica": "Looker Studio(Google Data Studio)",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.9_Amazon Quicksight",
+            "codigo_original": "4.j.9",
+            "rotulo_original": "Amazon Quicksight",
+            "opcao_canonica": "Amazon Quicksight",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.10_Alteryx",
+            "codigo_original": "4.j.10",
+            "rotulo_original": "Alteryx",
+            "opcao_canonica": "Alteryx",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.11_SAP Business Objects/SAP Analytics",
+            "codigo_original": "4.j.11",
+            "rotulo_original": "SAP Business Objects/SAP Analytics",
+            "opcao_canonica": "SAP Business Objects/SAP Analytics",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.12_Oracle Business Intelligence",
+            "codigo_original": "4.j.12",
+            "rotulo_original": "Oracle Business Intelligence",
+            "opcao_canonica": "Oracle Business Intelligence",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.13_Salesforce/Einstein Analytics",
+            "codigo_original": "4.j.13",
+            "rotulo_original": "Salesforce/Einstein Analytics",
+            "opcao_canonica": "Salesforce/Einstein Analytics",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.14_SAS Visual Analytics",
+            "codigo_original": "4.j.14",
+            "rotulo_original": "SAS Visual Analytics",
+            "opcao_canonica": "SAS Visual Analytics",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.15_Grafana",
+            "codigo_original": "4.j.15",
+            "rotulo_original": "Grafana",
+            "opcao_canonica": "Grafana",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.16_Pentaho",
+            "codigo_original": "4.j.16",
+            "rotulo_original": "Pentaho",
+            "opcao_canonica": "Pentaho",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.17_Fazemos todas as análises utilizando apenas Excel ou planilhas do google",
+            "codigo_original": "4.j.17",
+            "rotulo_original": "Fazemos todas as análises utilizando apenas Excel ou planilhas do google",
+            "opcao_canonica": "Fazemos todas as análises utilizando apenas Excel ou planilhas do google",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.18_Não utilizo nenhuma ferramenta de BI no trabalho",
+            "codigo_original": "4.j.18",
+            "rotulo_original": "Não utilizo nenhuma ferramenta de BI no trabalho",
+            "opcao_canonica": "Não utilizo nenhuma ferramenta de BI no trabalho",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      },
+      "2025-2026": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "4.g.1_Microsoft PowerBI",
+            "codigo_original": "4.g.1",
+            "rotulo_original": "Microsoft PowerBI",
+            "opcao_canonica": "Microsoft PowerBI",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.2_Qlik View/Qlik Sense",
+            "codigo_original": "4.g.2",
+            "rotulo_original": "Qlik View/Qlik Sense",
+            "opcao_canonica": "Qlik View/Qlik Sense",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.3_Tableau",
+            "codigo_original": "4.g.3",
+            "rotulo_original": "Tableau",
+            "opcao_canonica": "Tableau",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.4_Metabase",
+            "codigo_original": "4.g.4",
+            "rotulo_original": "Metabase",
+            "opcao_canonica": "Metabase",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.5_Superset",
+            "codigo_original": "4.g.5",
+            "rotulo_original": "Superset",
+            "opcao_canonica": "Superset",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.6_Redash",
+            "codigo_original": "4.g.6",
+            "rotulo_original": "Redash",
+            "opcao_canonica": "Redash",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.7_Looker",
+            "codigo_original": "4.g.7",
+            "rotulo_original": "Looker",
+            "opcao_canonica": "Looker",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.8_Looker Studio(Google Data Studio)",
+            "codigo_original": "4.g.8",
+            "rotulo_original": "Looker Studio(Google Data Studio)",
+            "opcao_canonica": "Looker Studio(Google Data Studio)",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.9_Amazon Quicksight",
+            "codigo_original": "4.g.9",
+            "rotulo_original": "Amazon Quicksight",
+            "opcao_canonica": "Amazon Quicksight",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.10_Alteryx",
+            "codigo_original": "4.g.10",
+            "rotulo_original": "Alteryx",
+            "opcao_canonica": "Alteryx",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.11_SAP Business Objects/SAP Analytics",
+            "codigo_original": "4.g.11",
+            "rotulo_original": "SAP Business Objects/SAP Analytics",
+            "opcao_canonica": "SAP Business Objects/SAP Analytics",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.12_Oracle Business Intelligence",
+            "codigo_original": "4.g.12",
+            "rotulo_original": "Oracle Business Intelligence",
+            "opcao_canonica": "Oracle Business Intelligence",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.13_Salesforce/Einstein Analytics",
+            "codigo_original": "4.g.13",
+            "rotulo_original": "Salesforce/Einstein Analytics",
+            "opcao_canonica": "Salesforce/Einstein Analytics",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.14_SAS Visual Analytics",
+            "codigo_original": "4.g.14",
+            "rotulo_original": "SAS Visual Analytics",
+            "opcao_canonica": "SAS Visual Analytics",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.15_Grafana",
+            "codigo_original": "4.g.15",
+            "rotulo_original": "Grafana",
+            "opcao_canonica": "Grafana",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.16_Pentaho",
+            "codigo_original": "4.g.16",
+            "rotulo_original": "Pentaho",
+            "opcao_canonica": "Pentaho",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.17_Fazemos todas as análises utilizando apenas Excel ou planilhas do google",
+            "codigo_original": "4.g.17",
+            "rotulo_original": "Fazemos todas as análises utilizando apenas Excel ou planilhas do google",
+            "opcao_canonica": "Fazemos todas as análises utilizando apenas Excel ou planilhas do google",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.g.18_Não utilizo nenhuma ferramenta de BI no trabalho",
+            "codigo_original": "4.g.18",
+            "rotulo_original": "Não utilizo nenhuma ferramenta de BI no trabalho",
+            "opcao_canonica": "Não utilizo nenhuma ferramenta de BI no trabalho",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      }
+    },
+    "exclusividade": {
+      "opcoes_exclusivas": [
+        "Não utilizo nenhuma ferramenta de BI no trabalho"
+      ],
+      "opcoes_compativeis_com_exclusiva": [
+        "Fazemos todas as análises utilizando apenas Excel ou planilhas do google"
+      ]
+    }
+  },
+  "ia_produtividade": {
+    "comparabilidade": "aproximada_exemplos_ferramentas_mudam",
+    "edicoes": {
+      "2023-2024": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "('P4_m_1 ', 'Não uso soluções de AI Generativa com foco em produtividade')",
+            "codigo_original": "P4_m_1",
+            "rotulo_original": "Não uso soluções de AI Generativa com foco em produtividade",
+            "opcao_canonica": "nao_usa",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_m_2 ', 'Uso soluções gratuitas de AI Generativa com foco em produtividade')",
+            "codigo_original": "P4_m_2",
+            "rotulo_original": "Uso soluções gratuitas de AI Generativa com foco em produtividade",
+            "opcao_canonica": "usa_gratuita",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_m_3 ', 'Uso e pago pelas soluções de AI Generativa com foco em produtividade')",
+            "codigo_original": "P4_m_3",
+            "rotulo_original": "Uso e pago pelas soluções de AI Generativa com foco em produtividade",
+            "opcao_canonica": "paga_proprio_bolso",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_m_4 ', 'A empresa que trabalho paga pelas soluções de AI Generativa com foco em produtividade')",
+            "codigo_original": "P4_m_4",
+            "rotulo_original": "A empresa que trabalho paga pelas soluções de AI Generativa com foco em produtividade",
+            "opcao_canonica": "empresa_paga",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_m_5 ', 'Uso soluções do tipo Copilot')",
+            "codigo_original": "P4_m_5",
+            "rotulo_original": "Uso soluções do tipo Copilot",
+            "opcao_canonica": "copilot_ou_ia_codigo",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      },
+      "2024-2025": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "4.m.1 Não uso soluções de AI Generativa com foco em produtividade",
+            "codigo_original": "4.m.1",
+            "rotulo_original": "Não uso soluções de AI Generativa com foco em produtividade",
+            "opcao_canonica": "nao_usa",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.m.2 Uso soluções gratuitas de AI Generativa com foco em produtividade",
+            "codigo_original": "4.m.2",
+            "rotulo_original": "Uso soluções gratuitas de AI Generativa com foco em produtividade",
+            "opcao_canonica": "usa_gratuita",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.m.3 Uso e pago pelas soluções de AI Generativa com foco em produtividade",
+            "codigo_original": "4.m.3",
+            "rotulo_original": "Uso e pago pelas soluções de AI Generativa com foco em produtividade",
+            "opcao_canonica": "paga_proprio_bolso",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.m.4 A empresa que trabalho paga pelas soluções de AI Generativa com foco em produtividade",
+            "codigo_original": "4.m.4",
+            "rotulo_original": "A empresa que trabalho paga pelas soluções de AI Generativa com foco em produtividade",
+            "opcao_canonica": "empresa_paga",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.m.5 Uso soluções do tipo Copilot",
+            "codigo_original": "4.m.5",
+            "rotulo_original": "Uso soluções do tipo Copilot",
+            "opcao_canonica": "copilot_ou_ia_codigo",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      },
+      "2025-2026": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "4.j.1 Não uso soluções de AI Generativa com foco em produtividade",
+            "codigo_original": "4.j.1",
+            "rotulo_original": "Não uso soluções de AI Generativa com foco em produtividade",
+            "opcao_canonica": "nao_usa",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.2 Uso soluções gratuitas de AI Generativa com foco em produtividade",
+            "codigo_original": "4.j.2",
+            "rotulo_original": "Uso soluções gratuitas de AI Generativa com foco em produtividade",
+            "opcao_canonica": "usa_gratuita",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.3 Uso e pago pelas soluções de AI Generativa com foco em produtividade",
+            "codigo_original": "4.j.3",
+            "rotulo_original": "Uso e pago pelas soluções de AI Generativa com foco em produtividade",
+            "opcao_canonica": "paga_proprio_bolso",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.4 A empresa que trabalho paga pelas soluções de AI Generativa com foco em produtividade",
+            "codigo_original": "4.j.4",
+            "rotulo_original": "A empresa que trabalho paga pelas soluções de AI Generativa com foco em produtividade",
+            "opcao_canonica": "empresa_paga",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.j.5 Uso soluções do tipo Copilot",
+            "codigo_original": "4.j.5",
+            "rotulo_original": "Uso soluções do tipo Copilot",
+            "opcao_canonica": "copilot_ou_ia_codigo",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      }
+    },
+    "exclusividade": {
+      "opcoes_exclusivas": [
+        "nao_usa"
+      ],
+      "opcoes_compativeis_com_exclusiva": []
+    }
+  },
+  "ia_uso_organizacional": {
+    "comparabilidade": "aproximada_exemplos_de_uso_mudam; descreve_relato_do_respondente_nao_medida_de_impacto_causal",
+    "exclusividade": {
+      "opcoes_exclusivas": [],
+      "opcoes_compativeis_com_exclusiva": []
+    },
+    "edicoes": {
+      "2023-2024": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "('P4_l_1 ', 'Colaboradores usando AI generativa de forma independente e descentralizada')",
+            "codigo_original": "P4_l_1",
+            "rotulo_original": "Colaboradores usando AI generativa de forma independente e descentralizada",
+            "opcao_canonica": "Colaboradores usando AI generativa de forma independente e descentralizada",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_l_2 ', 'Direcionamento centralizado do uso de AI generativa')",
+            "codigo_original": "P4_l_2",
+            "rotulo_original": "Direcionamento centralizado do uso de AI generativa",
+            "opcao_canonica": "Direcionamento centralizado do uso de AI generativa",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_l_3 ', 'Desenvolvedores utilizando Copilots')",
+            "codigo_original": "P4_l_3",
+            "rotulo_original": "Desenvolvedores utilizando Copilots",
+            "opcao_canonica": "Desenvolvedores utilizando Copilots",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_l_4 ', 'AI Generativa e LLMs para melhorar produtos externos para os clientes finais')",
+            "codigo_original": "P4_l_4",
+            "rotulo_original": "AI Generativa e LLMs para melhorar produtos externos para os clientes finais",
+            "opcao_canonica": "AI Generativa e LLMs para melhorar produtos externos para os clientes finais",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_l_5 ', 'AI Generativa e LLMs para melhorar produtos internos para os colaboradores')",
+            "codigo_original": "P4_l_5",
+            "rotulo_original": "AI Generativa e LLMs para melhorar produtos internos para os colaboradores",
+            "opcao_canonica": "AI Generativa e LLMs para melhorar produtos internos para os colaboradores",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_l_6 ', 'IA Generativa e LLMs como principal frente do negócio')",
+            "codigo_original": "P4_l_6",
+            "rotulo_original": "IA Generativa e LLMs como principal frente do negócio",
+            "opcao_canonica": "IA Generativa e LLMs como principal frente do negócio",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_l_7 ', 'IA Generativa e LLMs não é prioridade')",
+            "codigo_original": "P4_l_7",
+            "rotulo_original": "IA Generativa e LLMs não é prioridade",
+            "opcao_canonica": "IA Generativa e LLMs não é prioridade",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "('P4_l_8 ', 'Não sei opinar sobre o uso de IA Generativa e LLMs na empresa')",
+            "codigo_original": "P4_l_8",
+            "rotulo_original": "Não sei opinar sobre o uso de IA Generativa e LLMs na empresa",
+            "opcao_canonica": "Não sei opinar sobre o uso de IA Generativa e LLMs na empresa",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      },
+      "2024-2025": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "4.l.1 Colaboradores usando AI generativa de forma independente e descentralizada",
+            "codigo_original": "4.l.1",
+            "rotulo_original": "Colaboradores usando AI generativa de forma independente e descentralizada",
+            "opcao_canonica": "Colaboradores usando AI generativa de forma independente e descentralizada",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.l.2 Direcionamento centralizado do uso de AI generativa",
+            "codigo_original": "4.l.2",
+            "rotulo_original": "Direcionamento centralizado do uso de AI generativa",
+            "opcao_canonica": "Direcionamento centralizado do uso de AI generativa",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.l.3 Desenvolvedores utilizando Copilots",
+            "codigo_original": "4.l.3",
+            "rotulo_original": "Desenvolvedores utilizando Copilots",
+            "opcao_canonica": "Desenvolvedores utilizando Copilots",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.l.4 AI Generativa e LLMs para melhorar produtos externos para os clientes finais",
+            "codigo_original": "4.l.4",
+            "rotulo_original": "AI Generativa e LLMs para melhorar produtos externos para os clientes finais",
+            "opcao_canonica": "AI Generativa e LLMs para melhorar produtos externos para os clientes finais",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.l.5 AI Generativa e LLMs para melhorar produtos internos para os colaboradores",
+            "codigo_original": "4.l.5",
+            "rotulo_original": "AI Generativa e LLMs para melhorar produtos internos para os colaboradores",
+            "opcao_canonica": "AI Generativa e LLMs para melhorar produtos internos para os colaboradores",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.l.6 IA Generativa e LLMs como principal frente do negócio",
+            "codigo_original": "4.l.6",
+            "rotulo_original": "IA Generativa e LLMs como principal frente do negócio",
+            "opcao_canonica": "IA Generativa e LLMs como principal frente do negócio",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.l.7 IA Generativa e LLMs não é prioridade",
+            "codigo_original": "4.l.7",
+            "rotulo_original": "IA Generativa e LLMs não é prioridade",
+            "opcao_canonica": "IA Generativa e LLMs não é prioridade",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.l.8 Não sei opinar sobre o uso de IA Generativa e LLMs na empresa",
+            "codigo_original": "4.l.8",
+            "rotulo_original": "Não sei opinar sobre o uso de IA Generativa e LLMs na empresa",
+            "opcao_canonica": "Não sei opinar sobre o uso de IA Generativa e LLMs na empresa",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      },
+      "2025-2026": {
+        "pergunta_disponivel": true,
+        "opcoes": [
+          {
+            "coluna_original": "4.i.1 Colaboradores usando AI generativa de forma independente e descentralizada",
+            "codigo_original": "4.i.1",
+            "rotulo_original": "Colaboradores usando AI generativa de forma independente e descentralizada",
+            "opcao_canonica": "Colaboradores usando AI generativa de forma independente e descentralizada",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.i.2 Direcionamento centralizado do uso de AI generativa",
+            "codigo_original": "4.i.2",
+            "rotulo_original": "Direcionamento centralizado do uso de AI generativa",
+            "opcao_canonica": "Direcionamento centralizado do uso de AI generativa",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.i.3 Desenvolvedores utilizando Copilots",
+            "codigo_original": "4.i.3",
+            "rotulo_original": "Desenvolvedores utilizando Copilots",
+            "opcao_canonica": "Desenvolvedores utilizando Copilots",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.i.4 AI Generativa e LLMs para melhorar produtos externos para os clientes finais",
+            "codigo_original": "4.i.4",
+            "rotulo_original": "AI Generativa e LLMs para melhorar produtos externos para os clientes finais",
+            "opcao_canonica": "AI Generativa e LLMs para melhorar produtos externos para os clientes finais",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.i.5 AI Generativa e LLMs para melhorar produtos internos para os colaboradores",
+            "codigo_original": "4.i.5",
+            "rotulo_original": "AI Generativa e LLMs para melhorar produtos internos para os colaboradores",
+            "opcao_canonica": "AI Generativa e LLMs para melhorar produtos internos para os colaboradores",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.i.6 IA Generativa e LLMs como principal frente do negócio",
+            "codigo_original": "4.i.6",
+            "rotulo_original": "IA Generativa e LLMs como principal frente do negócio",
+            "opcao_canonica": "IA Generativa e LLMs como principal frente do negócio",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.i.7 IA Generativa e LLMs não é prioridade",
+            "codigo_original": "4.i.7",
+            "rotulo_original": "IA Generativa e LLMs não é prioridade",
+            "opcao_canonica": "IA Generativa e LLMs não é prioridade",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          },
+          {
+            "coluna_original": "4.i.8 Não sei opinar sobre o uso de IA Generativa e LLMs na empresa",
+            "codigo_original": "4.i.8",
+            "rotulo_original": "Não sei opinar sobre o uso de IA Generativa e LLMs na empresa",
+            "opcao_canonica": "Não sei opinar sobre o uso de IA Generativa e LLMs na empresa",
+            "correcao": null,
+            "selecionado": 1,
+            "nao_selecionado": 0,
+            "nao_respondido": null
+          }
+        ]
+      }
+    }
+  }
+}

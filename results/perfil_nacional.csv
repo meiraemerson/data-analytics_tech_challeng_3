@@ -1,0 +1,73 @@
+﻿edicao,campo,categoria,n
+2023-2024,cargo_grupo,Analise de Dados,907
+2023-2024,cargo_grupo,Analytics Engineering,139
+2023-2024,cargo_grupo,Business Intelligence,506
+2023-2024,cargo_grupo,Ciencia de Dados,687
+2023-2024,cargo_grupo,Engenharia de ML e IA,75
+2023-2024,cargo_grupo,Engenharia e Arquitetura de Dados,684
+2023-2024,cargo_grupo,Outros cargos,859
+2023-2024,cargo_grupo,Sem informacao,1436
+2024-2025,cargo_grupo,Analise de Dados,957
+2024-2025,cargo_grupo,Analytics Engineering,228
+2024-2025,cargo_grupo,Business Intelligence,396
+2024-2025,cargo_grupo,Ciencia de Dados,687
+2024-2025,cargo_grupo,Engenharia de ML e IA,103
+2024-2025,cargo_grupo,Engenharia e Arquitetura de Dados,660
+2024-2025,cargo_grupo,Outros cargos,785
+2024-2025,cargo_grupo,Sem informacao,1399
+2025-2026,cargo_grupo,Analise de Dados,599
+2025-2026,cargo_grupo,Analytics Engineering,135
+2025-2026,cargo_grupo,Business Intelligence,215
+2025-2026,cargo_grupo,Ciencia de Dados,423
+2025-2026,cargo_grupo,Engenharia de ML e IA,106
+2025-2026,cargo_grupo,Engenharia e Arquitetura de Dados,430
+2025-2026,cargo_grupo,Outros cargos,592
+2025-2026,cargo_grupo,Sem informacao,994
+2023-2024,nivel_comparavel,Gestor,896
+2023-2024,nivel_comparavel,Júnior,1046
+2023-2024,nivel_comparavel,Pleno,1392
+2023-2024,nivel_comparavel,Senior/Especialista,1419
+2023-2024,nivel_comparavel,Sem informacao,540
+2024-2025,nivel_comparavel,Gestor,1045
+2024-2025,nivel_comparavel,Júnior,868
+2024-2025,nivel_comparavel,Pleno,1376
+2024-2025,nivel_comparavel,Senior/Especialista,1572
+2024-2025,nivel_comparavel,Sem informacao,354
+2025-2026,nivel_comparavel,Gestor,727
+2025-2026,nivel_comparavel,Júnior,518
+2025-2026,nivel_comparavel,Pleno,775
+2025-2026,nivel_comparavel,Senior/Especialista,1207
+2025-2026,nivel_comparavel,Sem informacao,267
+2023-2024,modelo_trabalho_grupo,Hibrido fixo,790
+2023-2024,modelo_trabalho_grupo,Hibrido flexivel,972
+2023-2024,modelo_trabalho_grupo,Presencial,790
+2023-2024,modelo_trabalho_grupo,Remoto,2201
+2023-2024,modelo_trabalho_grupo,Sem informacao,540
+2024-2025,modelo_trabalho_grupo,Hibrido fixo,850
+2024-2025,modelo_trabalho_grupo,Hibrido flexivel,998
+2024-2025,modelo_trabalho_grupo,Presencial,792
+2024-2025,modelo_trabalho_grupo,Remoto,2221
+2024-2025,modelo_trabalho_grupo,Sem informacao,354
+2025-2026,modelo_trabalho_grupo,Hibrido fixo,645
+2025-2026,modelo_trabalho_grupo,Hibrido flexivel,631
+2025-2026,modelo_trabalho_grupo,Presencial,670
+2025-2026,modelo_trabalho_grupo,Remoto,1281
+2025-2026,modelo_trabalho_grupo,Sem informacao,267
+2023-2024,regiao,Centro-oeste,344
+2023-2024,regiao,Nordeste,608
+2023-2024,regiao,Norte,83
+2023-2024,regiao,Sudeste,3173
+2023-2024,regiao,Sul,961
+2023-2024,regiao,Sem informacao,124
+2024-2025,regiao,Centro-oeste,332
+2024-2025,regiao,Nordeste,516
+2024-2025,regiao,Norte,64
+2024-2025,regiao,Sudeste,3131
+2024-2025,regiao,Sul,1030
+2024-2025,regiao,Sem informacao,142
+2025-2026,regiao,Centro-oeste,231
+2025-2026,regiao,Nordeste,380
+2025-2026,regiao,Norte,48
+2025-2026,regiao,Sudeste,2170
+2025-2026,regiao,Sul,540
+2025-2026,regiao,Sem informacao,125
